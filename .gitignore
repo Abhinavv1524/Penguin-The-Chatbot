@@ -1,0 +1,58 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+app/src/main/java/com/example/penguin/API.java
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Keystore files (if any)
+*.jks
+*.keystore
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Firebase crashlytics, analytics cache (optional)
+firebase/crashlytics-build.properties
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# Generated files
+captures/
+output.json
+
+# Kotlin/Java compile files
+*.class
+
+# Node/React Native if used
+node_modules/
+
+# Misc
+*.bak
+*.tmp

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087308364387",
+    "project_id": "virtual-chatbot-10cc0",
+    "storage_bucket": "virtual-chatbot-10cc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087308364387:android:af770c3ce11962e8085656",
+        "android_client_info": {
+          "package_name": "com.example.penguin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_aSup6nBJ3cCJ2AJjaA0yHdYSONPDdG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
